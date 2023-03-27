@@ -1,4 +1,4 @@
-# Mage movement by boss - Naxx 25 man Wrath of the Lich King
+# Mage movement by boss - Naxx 25 man WOTLK Classic
 
 This is a somewhat extensive analysis I did on mage movement for Naxx 25 bosses some time ago, in late P1 WOTLK Classic (Dec-2023).
 Unlike other mini projects I have, where I try my best to document and explain the analysis process, I won't go into too many details here, mostly because of time (but I plan on coming back and try to update it with Ulduar data).
